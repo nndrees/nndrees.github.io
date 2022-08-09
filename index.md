@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Nathan Drees
 
-You can use the [editor on GitHub](https://github.com/nndrees/nndrees.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My LinkedIn can be accessed [here](https://www.linkedin.com/in/nathan-drees-9b247a1ab/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My GitHub page can be found [here](https://github.com/nndrees).
+
+
 
 ### Markdown
 
