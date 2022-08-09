@@ -1,5 +1,7 @@
 Resume
 
+[Home Page](index.md)
+
 ## Education
 Bachelor of Arts						    		        		
 Graduation: May 2021
