@@ -1,17 +1,18 @@
 
 Contact Information can be found [here](contact.md).
 
+You can find my resume [here](resume.md)
+
 My LinkedIn can be accessed [here](https://www.linkedin.com/in/nathan-drees-9b247a1ab/).
 
 My GitHub page can be found [here](https://github.com/nndrees).
 
-You can find my resume [here](resume.md)
 ```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+markdown
 Syntax highlighted code block
 
 # Header 1
@@ -27,8 +28,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and [Image](src)
-```
-```
+
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
