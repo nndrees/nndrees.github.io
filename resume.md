@@ -1,6 +1,8 @@
-Resume
+
 
 [Home Page](index.md)
+
+Downloadable resume [here](Resume_NathanDrees.pdf)
 
 ## Education
 Bachelor of Arts						    		        		

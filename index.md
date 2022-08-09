@@ -1,4 +1,5 @@
 
+Contact Information can be found [here](contact.md).
 
 My LinkedIn can be accessed [here](https://www.linkedin.com/in/nathan-drees-9b247a1ab/).
 
