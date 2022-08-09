@@ -18,7 +18,7 @@ GPA 3.0/4.0 <br/>
 •	Algorithms/Concurrency	•	Operating Systems	 <br/>
 •	Research Seminar – Socially Assistive Robotics Chatting Ability <br/>
 
-##Technical Proficiencies
+## Technical Proficiencies
 •	Python • Java •	Haskell •	VBA
 
 
