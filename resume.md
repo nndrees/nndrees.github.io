@@ -5,50 +5,50 @@
 Downloadable resume [here](Resume_NathanDrees.pdf)
 
 ## Education
-Bachelor of Arts						    		        		
-Graduation: May 2021
-Saint John’s University, Collegeville, MN
-Major: Computer Science	      							       		 
-GPA 3.0/4.0
+Bachelor of Arts	<br>					    		        		
+Graduation: May 2021 <br>
+Saint John’s University, Collegeville, MN <br>
+Major: Computer Science	<br>							       		 
+GPA 3.0/4.0 <br>
 
 ## Relevant Coursework	Technical Proficiencies
-•	Software Development	•	Artificial Intelligence
-•	Java •	Ethical Issues in Computing •	Agile and Efficient Software Dev
-•	Haskell •	Computer Organization •	Theoretical Foundation	•	Python
-•	Algorithms/Concurrency	•	Operating Systems	•	VBA
-•	Research Seminar – Socially Assistive Robotics Chatting Ability
+•	Software Development	•	Artificial Intelligence<br>
+•	Java •	Ethical Issues in Computing •	Agile and Efficient Software Dev <br>
+•	Haskell •	Computer Organization •	Theoretical Foundation	•	Python <br>
+•	Algorithms/Concurrency	•	Operating Systems	•	VBA <br>
+•	Research Seminar – Socially Assistive Robotics Chatting Ability <br>
 
 ## Related Experience
 ### VBA Data Manipulation Program								    	      January 2021
-**Individual Project**
-•	A program used by a Non-Profit organization to save resources
-•	Efficiently communicated with staff to create an easy-to-use program
+**Individual Project**<br>
+•	A program used by a Non-Profit organization to save resources<br>
+•	Efficiently communicated with staff to create an easy-to-use program<br>
 ### Solitaire Simulator									               	      January 2019
-**St. John’s University Class**
-•	Used Agile methods to make project
-•	Learned about Kanban boards and gained a greater GitHub understanding
-•	Led certain phases of the project and provided valuable feedback to professor
+**St. John’s University Class**<br>
+•	Used Agile methods to make project<br>
+•	Learned about Kanban boards and gained a greater GitHub understanding<br>
+•	Led certain phases of the project and provided valuable feedback to professor<br>
 ### Computer Science Teacher Assistant 							 August 2020 – May 2021
-**College of Saint Benedict**
-•	Applied my technical knowledge to assist peers
-•	Communicated complex ideas into understandable ideas
+**College of Saint Benedict**<br>
+•	Applied my technical knowledge to assist peers<br>
+•	Communicated complex ideas into understandable ideas<br><br>
 ### Applebee's 								              			 June 2017 - August 2019
 **Saint Cloud, MN & Columbus, OH**
-_Carside ToGo_										 October 2018 - May 2019
-• Monitored and ensured quality food for orders marked as takeout
-•	Effectively communicated with guests to understand and complete their orders
-•	Adapted to customers’ requirements over the phone to provide outstanding customer service
-_Server_ 											 April 2019 - August 2019
-•	Illustrated and informed guests of menu options and advertised specials offered
-•	Utilized problem solving skills to aid customers and find solutions to satisfy both parties
+_Carside ToGo_										 October 2018 - May 2019<br>
+• Monitored and ensured quality food for orders marked as takeout<br>
+•	Effectively communicated with guests to understand and complete their orders<br>
+•	Adapted to customers’ requirements over the phone to provide outstanding customer service<br>
+_Server_ 											 April 2019 - August 2019<br>
+•	Illustrated and informed guests of menu options and advertised specials offered<br>
+•	Utilized problem solving skills to aid customers and find solutions to satisfy both parties<br>
 ### Society of Our Lady of the Most Holy Trinity (SOLT) Volunteer		         June 2021 – Present
-**Saint Ann’s Indian Mission, Belcourt, ND**
-•	Taught 8th Grade Math at Saint Ann’s Pre-K through 8th grade private school
-•	Technology support for school; ordered computers and installed Smart Boards
-•	Provided safe rides for students to and from school as bus driver
+**Saint Ann’s Indian Mission, Belcourt, ND**<br>
+•	Taught 8th Grade Math at Saint Ann’s Pre-K through 8th grade private school<br>
+•	Technology support for school; ordered computers and installed Smart Boards<br>
+•	Provided safe rides for students to and from school as bus driver<br>
 ## Other Experience
 ### Bible Study/Scripture Circle Leader
-**Saint John’s University, Collegeville, MN**							 January 2020 – May 2021
-•	Identified needs of the group to confidently guide the direction meetings would take
-•	Guided members through difficult decisions and situations
-•	Facilitated growth in faith and character, both personal and in community
+**Saint John’s University, Collegeville, MN**							 January 2020 – May 2021<br>
+•	Identified needs of the group to confidently guide the direction meetings would take<br>
+•	Guided members through difficult decisions and situations<br>
+•	Facilitated growth in faith and character, both personal and in community<br>
