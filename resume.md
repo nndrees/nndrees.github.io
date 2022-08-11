@@ -33,7 +33,7 @@ GPA 3.0/4.0 <br/>
 **St. John’s University Class**<br/>
 •	Used Agile methods to make project<br/>
 •	Learned about Kanban boards and gained a greater GitHub understanding<br/>
-•	Led certain phases of the project and provided valuable feedback to professor<br/>
+•	Led certain phases of the project and provided valuable feedback to professor
 ### Computer Science Teacher Assistant - August 2020 – May 2021
 **College of Saint Benedict**<br/>
 •	Applied my technical knowledge to assist peers<br/>
