@@ -8,7 +8,7 @@ My LinkedIn can be accessed [here](https://www.linkedin.com/in/nathan-drees-9b24
 My GitHub page can be found [here](https://github.com/nndrees).
 
 
-##Biography
+## Biography
 
 Most recently, I have been serving on a Native American Reservation. I was on the Turtle Mountain Reservation in North Dakota. I was serving with the Society of Our Lady of the Most Holy Trinity in Belcourt, North Dakota. The reservation is located right in the middle of the state about ten miles from the Canadian boarder.
 
