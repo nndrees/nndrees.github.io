@@ -20,8 +20,12 @@ I served on the Turtle Mountain Reservation in North Dakota with the Society of 
 The community life was fantastic and note-worthy. I was one of fourteen volunteers at the mission, young people close in age to myself who were passionate about mission and the Catholic faith. I was also surrounded by priests, religious sisters, and religious brothers. Their joyful work, mutual respect, and compassion for others were highly influential in my character formation and work ethic.
 
 
- I deeply desire to take what I have learned from this place into the world: working hard for the betterment of myself and the people around me and always looking to challenge myself to greater accomplishment. 
+I deeply desire to take what I have learned from this place into the world: working hard for the betterment of myself and the people around me and always looking to challenge myself to greater accomplishment.
+
+Below are some pictures of me doing various things. The first picture is a semi-professional picture of me. Next, is me enjoying one of my hobbies, pottery. The last picture is a picture from mission of me showing kids the inside of a computer.
 
 
 <img src="Dressy.jpeg" alt="Semi-Professional Photo of me">
 <img src="Potery.jpg" alt="Me Enjoying one of my Hobbies">
+<img src="Dressy.jpg" alt="Semi-Professional Photo of me">
+<img src="Mission.jpeg" alt="Showing Kids the Inside of a Computer">
