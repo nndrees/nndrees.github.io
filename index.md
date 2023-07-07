@@ -23,5 +23,5 @@ The community life was fantastic and note-worthy. I was one of fourteen voluntee
  I deeply desire to take what I have learned from this place into the world: working hard for the betterment of myself and the people around me and always looking to challenge myself to greater accomplishment. 
 
 
-<img src="Dressy.jpg" alt="Semi-Professional Photo of me">
-<img src="Potery.jpg" alt="Me Enjoying one of my Hobies">
+<img src="Dressy.jpeg" alt="Semi-Professional Photo of me">
+<img src="Potery.jpg" alt="Me Enjoying one of my Hobbies">
