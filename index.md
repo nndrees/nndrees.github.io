@@ -27,5 +27,4 @@ Below are some pictures of me doing various things. The first picture is a semi-
 
 <img src="Dressy.jpeg" alt="Semi-Professional Photo of me">
 <img src="Potery.jpg" alt="Me Enjoying one of my Hobbies">
-<img src="Dressy.jpg" alt="Semi-Professional Photo of me">
 <img src="Mission.jpeg" alt="Showing Kids the Inside of a Computer">
