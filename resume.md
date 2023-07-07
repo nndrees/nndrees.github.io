@@ -63,7 +63,7 @@ GPA 3.0/4.0 <br/>
 **St. John’s University Class**<br/>
 •	Used Agile methods to make project<br/>
 •	Learned about Kanban boards and gained a greater GitHub understanding<br/>
-•	Led certain phases of the project and provided valuable feedback to professor
+•	Led certain phases of the project and provided valuable feedback to the professor
 
 ### Applebee's: June 2017 - August 2019
 **Saint Cloud, MN & Columbus, OH**<br/>
@@ -74,7 +74,7 @@ _Carside ToGo_ - October 2018 - May 2019<br/>
 _Server_ - April 2019 - August 2019<br/>
 •	Illustrated and informed guests of menu options and advertised specials offered<br/>
 •	Utilized problem-solving skills to aid customers and find solutions to satisfy both parties<br/>
->
+
 ## Other Experience
 ### Bible Study/Scripture Circle Leader  January 2020 – May 2021
 **Saint John’s University, Collegeville, MN**<br/>
